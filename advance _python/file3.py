@@ -1,0 +1,6 @@
+f=open("sample.txt","a")
+f.write("welcome\n")
+f.write("To\n")
+f.write("durgasoft\n")
+print("data written tp the file")
+f.close()
